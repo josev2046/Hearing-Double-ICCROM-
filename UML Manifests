@@ -1,0 +1,72 @@
+@startuml
+!theme plain
+skinparam SequenceBoxFontSize 12
+skinparam SequenceParticipantFontSize 12
+skinparam linetype ortho
+
+title AI-Enhanced Audio Archiving: Core Workflow
+
+actor "Archivist / User Query" as User
+
+component "Legacy Audio Assets (e.g., Tapes)" as RawAudio
+component "Digital Ingestion & Processing" as Ingest
+component "Contextual & Semantic Indexing" as Indexing
+component "AI-Driven Interpretation (LLM)" as AIInterpret
+component "Curated Exhibition & Access" as Exhibition
+
+User --> Ingest : "Initiates Digitisation"
+RawAudio --> Ingest : "Physical to Digital Conversion"
+
+Ingest --> Indexing : "Outputs Processed Data"
+note on link: Includes audio, text, metadata
+
+Indexing --> AIInterpret : "Provides Indexed Data"
+User --> Indexing : "Submits Search Query"
+
+AIInterpret --> Exhibition : "Generates Insights / Responses"
+note left of AIInterpret: Focus on authenticity & meaning
+
+Exhibition --> User : "Presents Information"
+
+@enduml
+
+---
+
+@startuml
+!theme plain
+skinparam SequenceBoxFontSize 12
+skinparam SequenceParticipantFontSize 12
+skinparam linetype ortho
+
+title AI-Enhanced Archive
+
+actor "Archivist / User Query" as User #LightBlue
+
+component "Legacy Audio Assets (e.g., Tapes)" as RawAudio #LightGreen
+component "Digital Ingestion & Processing" as Ingest #LightYellow
+component "Contextual & Semantic Indexing\n(Vector Database)" as Indexing #LightCyan
+component "AI-Driven Interpretation (LLM)" as AIInterpret #LightPink
+component "Curated Exhibition & Public Access" as Exhibition #LightSalmon
+
+User --> Ingest : "1. Initiates Digitization Request"
+note on link: <color:GoldenRod>User requests conversion of physical tapes.</color>
+
+RawAudio --> Ingest : "2. Physical to Digital Conversion"
+note on link: <color:GoldenRod>Tapes are digitized and initial metadata captured.</color>
+
+Ingest --> Indexing : "3. Outputs Processed Data"
+note on link: <color:GoldenRod>Includes transcribed audio, extracted text, and comprehensive metadata.</color>
+
+User --> Indexing : "4. Submits Search Query (Natural Language)"
+note on link: <color:GoldenRod>User asks questions like "Find discussions on Fela Kuti."</color>
+
+Indexing --> AIInterpret : "5. Retrieves Contextual Data"
+note on link: <color:GoldenRod>Vector database finds semantically relevant segments based on query.</color>
+
+AIInterpret --> Exhibition : "6. Generates Curated Insights / Responses"
+note left of AIInterpret: <color:GoldenRod>LLM processes retrieved context to formulate accurate answers,\nfocusing on authenticity and meaning, reducing hallucinations.</color>
+
+Exhibition --> User : "7. Presents Accessible Information"
+note on link: <color:GoldenRod>User receives curated content, exhibition displays, or direct answers.</color>
+
+@enduml
