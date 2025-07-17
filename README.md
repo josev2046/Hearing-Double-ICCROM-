@@ -70,4 +70,18 @@ The integration of RAG into the MAM system offers several profound advantages fo
 
 ## 4. Public Engagement and Future Directions: Art Meets Technology
 
-Beyond the immediate technical challenges of preservation and retrieval, a key objective of this project is to make these invaluable archives accessible to the public in engaging and meaningful ways. To this end, further access is being considered through a modular exhibition design, conceptualized as a space where **"art meets technology"** (Figure 1). This design envisions dynamic time-based media installations, leveraging readily available **single-board computers (SBCs)** and custom API development for flexible, secure content delivery and playback management. This approach not only democratizes access to the technology but also allows for adaptable exhibition configurations.
+Beyond the immediate technical challenges of preservation and retrieval, a key objective of this project is to make these invaluable archives accessible to the public in engaging and meaningful ways. To this end, further access is being considered through a modular exhibition design, conceptualized as a space where **"art meets technology"** (Figures 1 and 2). This design envisions dynamic time-based media installations, leveraging readily available **single-board computers (SBCs)** and custom API development for flexible, secure content delivery and playback management. This approach not only democratizes access to the technology but also allows for adaptable exhibition configurations.
+
+<img width="800" height="464" alt="image" src="https://github.com/user-attachments/assets/49fb76c3-4de1-4f56-ae1e-1020e70a2b37" />
+
+Figure 1.
+
+
+<img width="1352" height="582" alt="image" src="https://github.com/user-attachments/assets/535686a4-043a-41d7-a91c-e8a59c14b9ff" />
+
+Figure 2. 
+
+
+
+
+
