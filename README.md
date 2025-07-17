@@ -4,7 +4,7 @@
 
 **Authors:**
 Dr. David Dunkley Gyimah, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture
-José Velázquez, MA, Archivist and Multimedia Producer
+José Velázquez, MA, Archivist and Multimedia Producer, University of Pablo de Olavide (Associate Lecturer)
 
 ---
 
