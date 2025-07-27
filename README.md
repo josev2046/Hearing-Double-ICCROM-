@@ -78,7 +78,8 @@ Beyond the immediate technical challenges of preservation and retrieval, a key o
 Figure 1. Art meets Technology.
 
 
-<img width="1352" height="582" alt="image" src="https://github.com/user-attachments/assets/535686a4-043a-41d7-a91c-e8a59c14b9ff" />
+<img width="1352" height="582" alt="image" src="https://github.com/user-attachments/assets/a92a0538-4fce-4232-a121-c907ebc75038" />
+
 
 Figure 2. The AI-enhanced Archive.
 
