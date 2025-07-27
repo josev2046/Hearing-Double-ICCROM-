@@ -2,8 +2,10 @@
 ---
 
 **Authors:**
+
 Dr. David Dunkley Gyimah, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture;
-José Velázquez, MA, Archivist and Multimedia Producer, University of Pablo de Olavide (Associate Lecturer)
+
+José Velázquez (MA) Archivist and Multimedia Producer, Associate Lecturer at University of Pablo de Olavide, Interdisciplinary programme for the Masters Degree in Digital Humanities. 
 
 ---
 
