@@ -1,11 +1,10 @@
-# Hearing Double: AI-Enhanced Retrieval of Personal Audio Archives and the Reshaping of Cultural Narratives 
----
+# "Hearing Double": AI-enhanced retrieval of personal audio archives and the reshaping of cultural narratives 
 
 **Authors:**
 
-Dr. David Dunkley Gyimah, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture;
+**Dr. David Dunkley Gyimah**, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture;
 
-José Velázquez (MA) Archivist and Multimedia Producer, Associate Lecturer at University of Pablo de Olavide, Interdisciplinary programme for the Masters Degree in Digital Humanities. 
+**José Velázquez (MA)**, Archivist and Multimedia Producer, Associate Lecturer at University of Pablo de Olavide, Interdisciplinary programme for the Masters Degree in Digital Humanities. 
 
 ---
 
