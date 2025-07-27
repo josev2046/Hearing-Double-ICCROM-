@@ -1,5 +1,4 @@
-# Hearing Double: AI-Enhanced Retrieval of Personal Audio Archives and the Reshaping of Cultural Narratives [DRAFT July 2025]
-
+# Hearing Double: AI-Enhanced Retrieval of Personal Audio Archives and the Reshaping of Cultural Narratives 
 ---
 
 **Authors:**
