@@ -1,5 +1,7 @@
 # "Hearing Double": AI-enhanced retrieval of personal audio archives and the reshaping of cultural narratives 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16535259.svg)](https://doi.org/10.5281/zenodo.16535259)
+
 **Authors:**
 
 **Dr. David Dunkley Gyimah**, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture;
